@@ -4,7 +4,7 @@
 # Textual Clustering with BERT
 
 This project implements a solution for clustering text documents using the BERT (Bidirectional Encoder Representations from Transformers) model. The notebook includes key functions and methodologies for retrieving, cleaning, and processing text data for the purpose of grouping similar texts together without predefined labels.
-
+![3D GIF](images/3D.gif)
 ## Features
 
 - **Data Retrieval**: Implements a function for fetching and loading text data from various sources.
