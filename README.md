@@ -14,12 +14,12 @@ This project presents a comprehensive solution for clustering multilingual text 
 
 ### Embeddings Prior to Clustering
 Visual representations of the dataset embeddings before applying clustering algorithms.
-- ![2D Embedding Before Clustering](images/2D_before.png) (2D Visualization)
-- ![3D Embedding Before Clustering](images/3D_before.png) (3D Visualization)
+- ![2D Embedding Before Clustering](images/2D_before.png)
+- ![3D Embedding Before Clustering](images/3D_before.png)
 
 ### Embeddings Following Clustering with PCA-Enhanced K-means
 Visual illustrations showing the distribution of multilingual text clusters after the application of PCA-enhanced K-means clustering.
-- ![2D Embedding After K-means](images/2D_after.png) (2D Visualization)
-- ![3D Embedding After K-means](images/3D_after.png) (3D Visualization)
+- ![2D Embedding After K-means](images/2D_after.png)
+- ![3D Embedding After K-means](images/3D_after.png)
 
 This project demonstrates the applicability of advanced NLP techniques for understanding and organizing customer feedback in various languages, leveraging state-of-the-art multilingual embeddings for effective clustering.
